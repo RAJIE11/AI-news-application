@@ -4,7 +4,7 @@ import "./Footer.css";
 const Footer = () => {
   return (
     <>
-      <div className="created-by">Made with ❤️ ROS </div>
+      <div className="created-by">Made by ROS </div>
       <div className="contact">
         
         <a
